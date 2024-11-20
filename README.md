@@ -6,13 +6,11 @@
 A Web Developer is focused on React, Express, and MongoDB as my main tools for every work Besides my experience and intelligence in work I will do my best so do not worry when you share your Code Ideas or problems.
 ## EXPERINCE
 
+**Full Stack Web Developer at GG Marketing OPS** Mar 2022 - Now
+
 **Data Validator & Data Entry (Volunteer)** Feb 2024 - July 2024
 
 **Laravel Developer**    2022 - 2022
-
-**Back-end Developer Node.js** 2021 - 2022
-
-**Laravel Developer** 2022 - 2022
 
 **Back-end Developer Node.js** 2021 - 2022
 
